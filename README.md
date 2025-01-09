@@ -6,7 +6,7 @@
      alt="Dashboard Showcase" 
      style="width:100%; max-width:800px;">
 <p>Using Bee-cycle's Bike Sales data, I created a dashboard with Tableau to analyze sales trends across different age generations. The analysis highlights each generation's buying power and contribution to total sales, helping us identify the most impactful age group. Additionally, it examines the top-selling subcategories and products for each age group. Finally, the dashboard also shows the age distribution of customers in each country.</p>
-<a href="https://public.tableau.com/app/profile/jevon.sianipar/viz/SalesPerformancebyCustomerAgeGroupDashboard/Dashboard1">Click here to view the dashboard on Tableau Public.</a>
+<a href="https://public.tableau.com/views/SalesPerformancebyCustomerAgeGroupDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Click here to view the dashboard on Tableau Public.</a>
 <h2>2. Ecommerce Sales Performance Dashboard</h2>
 <img src="https://github.com/jvontama96/Dashboard_Projects/blob/main/ShowcaseLookerStudio.gif" 
      alt="Dashboard Showcase" 
